@@ -1,0 +1,33 @@
+
+.hi{
+    text-align: center;
+    text-decoration: underline;
+    color: blue;
+    margin-right: 50px;
+   
+}
+body{
+    background-color:cadetblue;
+}
+
+  
+.buttons{
+    color: white;
+    /* padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px; */
+    padding-left: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    
+  
+}
+.hie{
+    width: 95%;
+}
